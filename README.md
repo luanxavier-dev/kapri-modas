@@ -1,100 +1,60 @@
-# Kapri Landing Page Spark
+# 👗 KaPri Moda Teen
 
-Quero que você crie uma Landing page de alta conversão para uma loja de roupas
+Landing page comercial desenvolvida para a KaPri Moda Teen, uma loja especializada em moda para adolescentes.
 
-Info Google:Kapri Moda Teen
+## 🚀 Sobre o projeto
 
-Loja de roupas para jovens na Paulista, Pernambuco
+O projeto consiste em uma aplicação web moderna e responsiva criada para fortalecer a presença digital da marca, apresentar produtos e facilitar o contato entre a loja e seus clientes.
 
-Visão geral
+A interface foi desenvolvida com foco em experiência do usuário, navegação intuitiva e conversão através dos canais digitais da empresa.
 
-Sobre
+## ✨ Funcionalidades
 
-Avaliações
+- 🏠 Landing page comercial
+- 👗 Apresentação de produtos e novidades
+- 📱 Layout responsivo para diferentes dispositivos
+- 💬 Integração com WhatsApp
+- 📸 Integração com Instagram
+- ⭐ Seção de avaliações de clientes
+- 🛍️ Apresentação do processo de compra
+- 📍 Informações e localização da loja
+- 🕐 Horário de funcionamento
+- 🎬 Seção de vídeos e apresentação dos looks
+- 🚚 Informações sobre envio
+- 🎯 Chamadas para ação focadas em conversão
 
-Fotos
+## 🛠️ Tecnologias utilizadas
 
-Ligar
+- React
+- TypeScript
+- Vite
+- TanStack Start
+- TanStack Router
+- TanStack React Query
+- Tailwind CSS
+- Radix UI
+- React Hook Form
+- Zod
+- Lucide React
+- ESLint
+- Prettier
 
-Rotas
+## 🌐 Projeto online
 
-Compartilhar
+🔗 [Acessar o site](https://kapri-modas-luan-dev.lovable.app/)
 
-Salvar
+## 📱 Responsividade
 
-R. Adeilson João Alves da Silva, 102 - Centro, Paulista - PE, 53401-410
+O projeto foi desenvolvido para proporcionar uma boa experiência em computadores, tablets e dispositivos móveis.
 
-3,6 km
+## 👨‍💻 Desenvolvedor
 
-·
+**Luan Xavier**
 
-22 min
+Estudante de Engenharia de Software na Estácio.
 
-·
+🔗 [GitHub](https://github.com/luanxavier-dev)
 
-8 min
+---
 
-Mapa deste local: Kapri Moda Teen
-
-terça-feira	09:00–17:00
-
-quarta-feira	09:00–17:00
-
-quinta-feira	09:00–17:00
-
-sexta-feira	09:00–17:00
-
-sábado	08:00–12:00
-
-domingo	Fechado
-
-segunda-feira	09:00–17:00
-
-Sugerir novos horários
-
-(81) 99788-8432
-
-Avaliar
-
-Ordenar por
-
-Mais relevantes
-
-Mais recentes
-
-Mais alta
-
-Mais baixa
-
-Tarscila Vilarim
-
-6 avaliações
-
-7 meses atrás
-
-Looks lindos. Atendimento maravilhoso!
-
-Info insta:as informações do Instagram estao na primeira foto, e os vídeos gostaria que você colocasse na pagina
-
-This project was built with [Lovable](https://lovable.dev).
-
-**Live app**: https://kapri-modas-luan-dev.lovable.app
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/8dfcd673-9710-41bd-bc2f-738c0b88a51d).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+⭐ Este projeto faz parte do meu portfólio e representa minha evolução prática durante minha formação em Engenharia de Software.
